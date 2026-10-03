@@ -1,0 +1,25 @@
+12:49:38 [INFO] utils.helpers: Navegador Chrome iniciado (headless=False)
+12:49:38 [INFO] utils.helpers: Login con el usuario 'standard_user'
+12:49:38 [INFO] utils.helpers: Login exitoso, URL actual: https://www.saucedemo.com/inventory.html
+12:49:39 [INFO] conftest: Navegador cerrado
+12:49:39 [INFO] utils.helpers: Navegador Chrome iniciado (headless=False)
+12:49:39 [INFO] utils.helpers: Login con el usuario 'standard_user'
+12:49:39 [INFO] utils.helpers: Login exitoso, URL actual: https://www.saucedemo.com/inventory.html
+12:49:39 [INFO] conftest: Navegador cerrado
+12:49:40 [INFO] utils.helpers: Navegador Chrome iniciado (headless=False)
+12:49:40 [INFO] utils.helpers: Login con el usuario 'standard_user'
+12:49:40 [INFO] utils.helpers: Login exitoso, URL actual: https://www.saucedemo.com/inventory.html
+12:49:40 [INFO] conftest: Navegador cerrado
+12:49:41 [INFO] utils.helpers: Navegador Chrome iniciado (headless=False)
+12:49:41 [INFO] utils.helpers: Login con el usuario 'standard_user'
+12:49:41 [INFO] utils.helpers: Login exitoso, URL actual: https://www.saucedemo.com/inventory.html
+12:49:41 [INFO] conftest: Navegador cerrado
+12:49:41 [INFO] utils.helpers: Navegador Chrome iniciado (headless=False)
+12:49:41 [INFO] utils.helpers: Login con el usuario 'standard_user'
+12:49:42 [INFO] utils.helpers: Login exitoso, URL actual: https://www.saucedemo.com/inventory.html
+12:49:42 [INFO] test_catalogo: Primer producto: Sauce Labs Backpack - $29.99
+12:49:42 [INFO] conftest: Navegador cerrado
+12:49:42 [INFO] utils.helpers: Navegador Chrome iniciado (headless=False)
+12:49:42 [INFO] utils.helpers: Login con el usuario 'standard_user'
+12:49:43 [INFO] utils.helpers: Login exitoso, URL actual: https://www.saucedemo.com/inventory.html
+12:49:43 [INFO] conftest: Navegador cerrado
